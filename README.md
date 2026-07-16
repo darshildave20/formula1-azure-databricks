@@ -26,3 +26,12 @@ This project follows the Medallion Architecture:
 - **Gold** – Analytical tables for reporting and business insights.
 
 ---
+# 🏎️ Formula 1 Data Engineering Project
+
+An end-to-end Azure Databricks project implementing the Medallion Architecture.
+
+---
+
+## 🏗️ Solution Architecture
+
+![Solution Architecture](screenshots/07-solution-architecture.png)
